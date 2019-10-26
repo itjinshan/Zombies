@@ -2,7 +2,7 @@ const express = require('express');
 const app =express();
 const cors = require('cors');
 const passport = require("passport");
-const bodyParser = require('body-parser');
+
 
 var corsOption = {
     origin: true,
