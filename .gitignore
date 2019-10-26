@@ -1,3 +1,6 @@
 node_modules
 package-lock.json
 config.js
+db_config.js
+firebase.js
+cal-hacks-zombies-firebase-adminsdk-xgecl-7b8fabe166.json
